@@ -1,3 +1,12 @@
+
+---
+layout: post
+title:  "The First post mark down example"
+description: An example post which shows code rendering.
+date:   2020-05-14 21:03:36 +0530
+categories: Javascript NodeJS
+---
+
 # The First post mark down example
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
