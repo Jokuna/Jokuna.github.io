@@ -38,6 +38,8 @@ categories: Python OSS TheFuck Node.js
    
    The Fuck Issue에 등록된 버그 관련 이슈들을 찾고, 이를 해결합니다.
 
+   이외에 [`OSS 11조 The Fuck에서 주목할 이슈 정리`](https://20-1-skku-oss.github.io/2020-1-OSS-11/thefuck/issues/) 들을 참고하여 버그들을 해결할 예정입니다.
+
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 ### 기타
