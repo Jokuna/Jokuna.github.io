@@ -1,10 +1,8 @@
-title: Texture Theme
-author: GitHub User
-email: your-email@domain.com
+title: Jokuna Blog
+author: Jokuna
+email: rafik57@g.skku.edu
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  OSS 실습을 위한 GitHub Page
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl:
 remote_theme: thelehhman/texture
@@ -16,20 +14,20 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: 
+  tagline: Developer.
   date_format: "%b %-d, %Y"
-  style: black
-  showNav: false
-  showPicker: true
+  style: blue
+  showNav: true
+  navigation: 
+    - title: My Post
+      url: "/posts"
+  showPicker: false
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
-    rss: rss
- 
+    github:  Jokuna
+
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
