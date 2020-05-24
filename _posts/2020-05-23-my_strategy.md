@@ -6,8 +6,6 @@ date:   2020-05-23 21:03:36 +0530
 categories: Python OSS TheFuck
 ---
 
-## 나의 기여 방안
-
 ### 정적페이지 관리
 
 - The Fuck 설치 방법에 대한 가이드 작성하기 (https://20-1-skku-oss.github.io/2020-1-OSS-11/thefuck/thefuck-install/)
@@ -35,21 +33,21 @@ categories: Python OSS TheFuck
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-## 타 팀원들 간의 기여 방안
+### 타 팀원들 간의 기여 방안
 
-### 권태완
+#### 권태완
 
 - 함수 추가, README.md 수정
 
-### 안영태
+#### 안영태
 
 - 코드 수정, 정적페이지 수정
 
-### 인진영
+#### 인진영
     
 - 코드 수정, wiki 관리
 
-### 김민철
+#### 김민철
 
 - 코드 수정, 버그 관리
 
