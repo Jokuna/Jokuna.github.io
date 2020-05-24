@@ -48,4 +48,6 @@ git branch [enter/↑/↓/ctrl+c]
 
 [`The Algorithm / C`](https://github.com/TheAlgorithms/C) 프로젝트는 자료구조, 알고리즘 추가하고 간단한 설명 주석으로 달면 쉽게 기여할 수 있지만, [`The Fuck`](https://github.com/nvbn/thefuck) 프로젝트의 경우, 프로젝트의 구조가 직관적이여서 python을 다룰 줄 안다면, 팀원들이 접근하기 쉬우며, 기능 개선과 버그 등 다양한 이슈가 존재하여 알고리즘 프로젝트에 비해 의미 있는 기여를 할 수 있다고 판단하여 선정하였습니다.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
