@@ -16,6 +16,8 @@ categories: Python OSS TheFuck
 
 - The Fuck에 어떠한 것을 기여했는지에 대한 pull request 정리하기
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 ### Pull Request
 
 - 지원하지 않는 명령어에 관련된 기능 추가하기 
@@ -24,6 +26,7 @@ categories: Python OSS TheFuck
 
 - 버그 issue에 대해 수정하여 기여하기
 
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Issue
 
