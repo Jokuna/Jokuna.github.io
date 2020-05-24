@@ -42,6 +42,13 @@ git branch [enter/↑/↓/ctrl+c]
 
 ## Reason of Selection (선정 이유)
 
+초기 프로젝트 선정 시 
 
+한국어 형태소를 분석해주는 [`shineware / KOMORAN`](https://github.com/shineware/KOMORAN) , command line fuzzy finder인 [`junegunn / fzf`](https://github.com/junegunn/fzf) , 웹 개발 시 APi 설계, 디자인, 디버깅할때 사용하는  [`Kong / insomnia`](https://github.com/Kong/insomnia) 등등 초기 프로젝트 선정 시 다양한 프로젝트들이 나왔습니다. 
 
+하지만 [`The Algorithm / C`](https://github.com/TheAlgorithms/C) 와 [`The Fuck`](https://github.com/nvbn/thefuck) 가 초기에 선정 되었습니다. 
+
+[`The Algorithm / C`](https://github.com/TheAlgorithms/C) 프로젝트는 자료구조, 알고리즘 추가하고 간단한 설명 주석으로 달면 쉽게 기여할 수 있을 거 같아서 선정하였으며, [`The Fuck`](https://github.com/nvbn/thefuck) 프로젝트의 경우, 프로젝트의 구조가 직관적이여서 python을 다룰 줄 안다면, 팀원들이 접근하기 쉬우며, 기능 개선과 버그 등 다양한 이슈가 존재하기에 프로젝트에 의미 있는 기여를 할 수 있다고 판단하여 선정하였습니다.
+
+최종 프로젝트는 [`The Fuck`](https://github.com/nvbn/thefuck)가 선정이 되었습니다. 
 
