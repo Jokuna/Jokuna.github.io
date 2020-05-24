@@ -20,7 +20,7 @@ categories: Python OSS TheFuck
 
 - 지원하지 않는 명령어에 관련된 기능 추가하기 
 
-    (nvm 명령어 관련해서 기능을 추가할 예정이며, 이에 대한 자세한 설명은 프로젝트 개선 방향성 제시 글을 참고해 주세요.)
+    (nvm 명령어 관련해서 기능을 추가할 예정이며, 이에 대한 자세한 설명은 [`프로젝트 개선 방향성 제시`](https://jokuna.github.io/posts/improve_project/) 글을 참고해 주세요.)
 
 - 버그 issue에 대해 수정하여 기여하기
 
@@ -52,6 +52,7 @@ categories: Python OSS TheFuck
 #### 인진영
     
 - wiki 관리
+
     - 선정한 프로젝트 소개 및 선정 이유, 팀원 정보 및 기타 정보들을 [`wiki`](https://github.com/20-1-SKKU-OSS/2020-1-OSS-11/wiki)에 기록
 
 - The Fuck 기능 추가 및 버그 수정를 통한 기여
