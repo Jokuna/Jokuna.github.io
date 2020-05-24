@@ -28,9 +28,10 @@ categories: Python OSS TheFuck Node.js
 
 ### 버그 수정
 
- - The Fuck Issue에 등록된 버그 관련 이슈들을 찾고, 이를 해결합니다.
+ - [`The Fuck Bug Issue`](https://github.com/nvbn/thefuck/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
-### 기타
-
+   ![The Fuck Bug Issue Image](../openbug.png)
+   
+   The Fuck Issue에 등록된 버그 관련 이슈들을 찾고, 이를 해결합니다.
 
 &nbsp;&nbsp;&nbsp;&nbsp;
