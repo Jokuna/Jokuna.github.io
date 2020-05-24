@@ -6,6 +6,8 @@ date:   2020-05-23 21:03:36 +0530
 categories: Python OSS TheFuck
 ---
 
+### 정적페이지 관리 및 Pull Request, Issue 생성
+
 ### 정적페이지 관리
 
 - The Fuck 설치 방법에 대한 가이드 작성하기 [(https://20-1-skku-oss.github.io/2020-1-OSS-11/thefuck/thefuck-install/)](https://20-1-skku-oss.github.io/2020-1-OSS-11/thefuck/thefuck-install/)
