@@ -40,7 +40,7 @@ categories: Python OSS TheFuck
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-### 타 팀원들 간의 기여 방안
+### 팀원들 간의 역할 분담
 
 #### 권태완 (조장)
 
