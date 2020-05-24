@@ -14,14 +14,11 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: 
+  title: Jokuna Blog
   tagline: Developer.
   date_format: "%b %-d, %Y"
   style: blue
   showNav: true
-  navigation: 
-    - title: My Post
-      url: "/posts"
   showPicker: false
 
   # generate social links in footer
