@@ -6,12 +6,13 @@ date:   2020-05-22 21:03:36 +0530
 categories: Python OSS Project
 ---
 
-
-# The Fuck
-
-## About
+[The Fuck Repository](https://github.com/nvbn/thefuck)
 
 ![texture theme preview](https://raw.githubusercontent.com/nvbn/thefuck/master/example.gif)
+
+The Fuck은 터미널 환경에서 커맨드 입력 오류가 발생했을 경우, fuck 명령어를 통해 이전에 입력한 커맨드 오류를 수정해주고 재입력해주는 툴에 대한 프로젝트 입니다.
+
+명령어 입력 시 오류가 있을 경우 다시 직접 타이핑하는 번거로움이 있지만, The Fuck 툴을 사용하면 번거로움을 줄일 수 있습니다. 
 
 More examples:
 
@@ -38,12 +39,9 @@ Did you mean this?
 git branch [enter/↑/↓/ctrl+c]
 * master
 ```
-### [The Fuck Repository](https://github.com/nvbn/thefuck)
 
-The Fuck은 터미널 환경에서 커맨드 입력 오류가 발생했을 경우, fuck 명령어를 통해 이전에 입력한 커맨드 오류를 수정해주고 재입력해주는 툴에 대한 프로젝트 입니다.
-
-명령어 입력 시 오류가 있을 경우 다시 직접 타이핑하는 번거로움이 있지만, The Fuck 툴을 사용하면 번거로움을 줄일 수 있습니다. 
+## Reason of Selection (선정 이유)
 
 
 
-## Reason of Selection
+
