@@ -36,7 +36,7 @@ categories: Python OSS TheFuck Node.js
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-#### 기타
+### 기타
 
    - the fuck python 기존 코드의 flow에 대한 설명 주석을 추가할 예정
 
