@@ -6,7 +6,7 @@ date:   2020-05-24 19:03:36 +0530
 categories: Python OSS TheFuck Node.js
 ---
 
-### 지원하지 않는 명령어에 관한 기능 추가 및 개선
+### 지원하지 않는 명령어 추가 및 개선
 
 #### NVM
 
