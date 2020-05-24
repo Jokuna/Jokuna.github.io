@@ -23,7 +23,7 @@ categories: Python OSS TheFuck Node.js
     Node.js를 주력을 개발하는 개발자의 경우, Node.js를 간편하게 설치할 수 있고, 버전 관리에 용이하기 때문에 NVM 사용은 거의 필수적이라 볼 수 있습니다. 
 
     따라서 주로 사용되는 명령어에 관련된 기능을 The Fuck에 추가한다면 의미 있는 기여가 될 것이라 생각합니다.
-    
+
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 ### 버그 수정
@@ -33,5 +33,11 @@ categories: Python OSS TheFuck Node.js
    ![The Fuck Bug Issue Image](https://raw.githubusercontent.com/Jokuna/Jokuna.github.io/master/openbug.png)
    
    The Fuck Issue에 등록된 버그 관련 이슈들을 찾고, 이를 해결합니다.
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### 기타
+
+   - the fuck python 기존 코드의 flow에 대한 설명 주석을 추가할 예정
 
 &nbsp;&nbsp;&nbsp;&nbsp;
