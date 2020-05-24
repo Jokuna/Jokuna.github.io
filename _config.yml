@@ -17,7 +17,7 @@ texture:
   title: Jokuna Blog
   tagline: Developer.
   date_format: "%b %-d, %Y"
-  style: blue
+  style: skyblue
   showNav: true
   showPicker: false
 
